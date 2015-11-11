@@ -9,9 +9,6 @@
 
     <div class="jumbotron">
         <h1>NextCapital Assignment</h1>
-        <p class="lead">
-            This assignment (webapp) that will integrates with the RESTful JSON API defined in this project.
-            </p>
             <h3>Technologies/ Software used:</h3>
             <ol>
                 <li><a href="https://www.visualstudio.com/en-us/visual-studio-homepage-vs.aspx" target="_blank">Microsoft Visual Studio</a> for .NET Development</li>
